@@ -1,5 +1,5 @@
 # Responsive Christmas Landing Page
-## [LIVE PREVIEW](https://amanayak.github.io/Create-Responsive-Christmas-Landing-Page/)
+## [LIVE PREVIEW](https://codinggujaratweb.github.io/Create-Responsive-Christmas-Landing-Page/)
 ### Responsive Christmas Landing Page
 
 - Responsive Christmas Landing Page Using HTML CSS And JavaScript
